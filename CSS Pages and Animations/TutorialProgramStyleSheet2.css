@@ -1,0 +1,33 @@
+h1,h2
+{
+    background-color: green;
+    color: yellow;
+}
+
+.Div1_Class
+{
+    background-color: red;
+    color: white;
+    width: 50%;
+    float: left;
+}
+
+p.Para1_Class
+{
+    border: 2px solid black;
+
+}
+
+.Div2_Class
+{
+    background-color: black;
+    color: white;
+    width: 50%;
+    float: right;
+
+}
+
+p.Para2_Class
+{
+    border: 2px solid white;
+}

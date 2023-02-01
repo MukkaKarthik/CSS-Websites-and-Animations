@@ -1,0 +1,56 @@
+
+#div_ID
+{
+    height: 175px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+    background-color: darkgreen;
+}
+
+/* ============Header Section============*/
+#header_ID
+{
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: black;
+    height: 50px;
+}
+
+
+
+/* ============Main Section along with Navigation ============*/
+#Main_Nav_ID
+{
+    margin-left: 100px;
+    margin-right: 100px;
+background-color: yellow;
+    height: 450px;
+
+}
+
+
+#nav_ID
+{
+    margin-right: 100px;
+    width: 250px;
+    background-color: gray;
+    height: 450px;
+}
+
+p{
+    position: absolute;
+    top: 325px;
+    left: 400px;
+    right: 800px;
+    }
+
+
+@media (max-width: 600px) {
+
+    #nav_ID
+    {
+        display: none;
+    }
+
+}

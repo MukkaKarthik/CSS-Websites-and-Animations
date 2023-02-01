@@ -1,0 +1,149 @@
+/* =========Layout Section ===========*/
+
+body
+{
+    background-color: yellow;
+    font-size: 14px;
+    margin: 10px;
+
+   /* background-color: red; */
+
+}
+
+#Header
+{
+    border: 5px solid black;
+    background-color: blue;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.Navigation
+{
+    background-color: red;
+
+    margin: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+
+}
+
+.Main
+{
+    background-color: lawngreen;
+    margin-right: 580px;
+    border: 5px solid black;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+
+h1
+{
+    font-size: 40px;
+    color: red;
+}
+
+p
+{
+    font-weight: bold;
+}
+
+
+.sidebar
+{
+    background-color: coral;
+    margin: 10px;
+    padding: 20px;
+    border: 5px solid black;
+    border-radius: 10px;
+    text-align: center;
+    width: 500px;
+float: right;
+    clear: right;
+}
+
+.image_sidebar
+{
+
+    margin-right: 10px;
+    margin-left: 10px;
+
+    float: right;
+    clear: right;
+    opacity: 1.0;
+transition: opacity 0.5s ease-in;
+}
+
+.image_sidebar:hover
+{
+    opacity: 0.7;
+}
+
+
+.footer_div
+{
+    background-color: red;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-top: 10px;
+clear: both;
+}
+
+
+ul
+{
+    list-style-type: none;
+text-align: center;
+
+
+}
+
+ul li
+{
+    display: inline;
+    padding: 5px;
+    color: white;
+}
+
+.li_Class
+{
+    color: white;
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: orangered;
+    border-radius: 10px;
+}
+
+.li_Class:hover
+{
+    background-color: white;
+    color: orangered;
+}
+
+.footer_ul_li_class
+{
+    color: white;
+    text-decoration: none;
+    display: inline;
+    text-align: center;
+}
+
+.footer_ul_li_class
+{
+    color: white;
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: orangered;
+    border-radius: 10px;
+}
+
+.footer_ul_li_class:hover
+{
+    background-color: white;
+    color: orangered;
+}
